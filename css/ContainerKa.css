@@ -1,0 +1,23 @@
+.container {
+    background:url("../img/bg.jpg");
+    background-size: cover;
+    border: 19px solid rgb(255, 180, 180);
+    border-radius: 10px;
+    padding: 16px 499px;
+    margin: 7%;
+}
+.container h1{
+    color: black;
+    text-shadow: 0 0 5px  rgb(255, 180, 180);
+    padding-left: 17px;
+}
+.container button{
+    margin: 15px 15px 15px 48px;
+    font-size: 15px;
+    padding: 1px 18px;
+}
+.form-group input{
+    background-color: rgb(39, 3, 3);
+    border: 5px solid rgb(255, 180, 180);
+    border-radius: 9px;
+}

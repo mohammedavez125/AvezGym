@@ -1,0 +1,19 @@
+/* right css */
+.right{
+    position: absolute;
+    right: 34px;
+    top: 20px;
+    display: inline;
+}
+.btn{
+    font-family: 'Koulen', cursive;
+    text-shadow: 0 0 2px rgb(255, 180, 180);
+    background-color:rgb(39, 3, 3);
+    color :  rgb(255, 180, 180);
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn:hover{
+    color: white;
+    text-decoration: underline;
+}

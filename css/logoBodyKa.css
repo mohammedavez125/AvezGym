@@ -1,0 +1,30 @@
+body{ 
+    font-family: 'Koulen', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* logo css */
+.logo{
+    display: inline-block;
+    border: 5px solid rgb(255, 180, 180);
+    border-radius: 6px;
+    background-color: rgb(39, 3, 3);
+    position: absolute;
+    left: 20px;
+    top: 9px;
+    padding: 11px;
+}
+.logo img {
+    height: 74px;
+    border-radius: 61px;
+    background-color: white;
+}
+.logo div{
+    text-shadow: 0 0 2px rgb(255, 180, 180);
+    color: rgb(255, 180, 180);
+    margin-left: 9px;
+}
